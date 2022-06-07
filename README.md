@@ -1,6 +1,6 @@
-![](https://raw.githubusercontent.com/electricalgorithm/ClassicGeneticAlgorithm4PID/main/doc/cga4pid%20Banner%20x2.png)
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/electricalgorithm/ClassicGeneticAlgorithm4PID/main/doc/cga4pid%20Banner%20x2.png">
+</p>
 
 It is a library and a GUI application for Classic Genetic Algorithm on the topic PID tuning. It includes functions for analyzing systems, simulating a system consists of PID controller and a plant, and of course Classic Genetic Algorithm.
 
@@ -18,7 +18,9 @@ It is using the functionality of application interface, with embedded functions 
 * Create a text file as a report,
 * Save the simulation, and import it to continue later.
 
-<img src="https://raw.githubusercontent.com/electricalgorithm/ClassicGeneticAlgorithm4PID/main/doc/ScreenShot.png" style="zoom:80%;" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/electricalgorithm/ClassicGeneticAlgorithm4PID/main/doc/ScreenShot.png" style="zoom:80%;" />
+</p>
 
 Please note, "Max Same Generation" text-box is an input for the maximum generation of being same "best" individual. So, if your simulation won't stop after `X` amount of generation, don't surprise.  It is going to be finished after the same individual became best for `X` generations.
 
