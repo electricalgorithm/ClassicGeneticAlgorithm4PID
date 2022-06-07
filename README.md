@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/electricalgorithm/ClassicGeneticAlgorithm4PID/main/doc/cga4pid Banner x2.png)
+![](https://raw.githubusercontent.com/electricalgorithm/ClassicGeneticAlgorithm4PID/main/doc/cga4pid%20Banner%20x2.png)
 
 ---
 
