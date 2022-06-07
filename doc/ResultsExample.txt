@@ -1,0 +1,30 @@
+==========================================
+ PID Tuner with Classic Genetic Algorithm 
+==========================================
+Version: 0.1.2 Beta
+GitHub: https://github.com/electricalgorithm/ClassicGeneticAlgorithm4PID
+Report Author: pop49
+Report Created at: 07-Jun-2022 15:35:29
+
+######## Plant #######
+Model: 1.000000/(8.000000 s + 1) * e^(-3.000000 s)
+Model Inputs: 1.000000, 8.000000, 3.000000
+######################
+
+###### Algorithm #######
+Population Size: 20
+Reference Value: 5.00
+Seeking Fitness Value >=: 0.300000
+Maximum Same Generation: 125
+Crossover Chance: 50
+Mutation Chance: 50
+Inversion Chance: 1.500000e+01
+######################
+
+####### Results #######
+Generation Created: 139
+Best Fitness Value: -0.415522
+Proportional Gain: 1.47
+Integration Gain: 0.1211
+Derivation Gain: 0.0143
+#######################
