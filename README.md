@@ -26,7 +26,7 @@ Please note, "Max Same Generation" text-box is an input for the maximum generati
 
 ## Application Interface
 
-You can find the API in the `src/CLI` directory. To start using it, check out a fast-start example in below:
+You can find the API reference in the `doc` directory. To start using it, check out a fast-start example in below:
 
 ```matlab
 % Create the Plant Model
@@ -40,4 +40,4 @@ plot(x_data, y_data);
 
 ## License
 
-Application and its functions have licensed with **MIT**. You can directly change the code, update it, or fix something, and publish it. Please contribute to this project to make it better, and free for everyone.
+Application and its functions have licensed under **MIT**. You can directly change the code, update it, or fix something, and publish it. Please contribute to this project to make it better, and free for everyone.
