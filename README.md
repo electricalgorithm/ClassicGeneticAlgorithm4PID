@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/500231686.svg)](https://doi.org/10.5281/zenodo.15488203)
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/electricalgorithm/ClassicGeneticAlgorithm4PID/main/doc/cga4pid%20Banner%20x2.png">
 </p>
